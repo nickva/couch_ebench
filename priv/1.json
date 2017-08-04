@@ -1,0 +1,67 @@
+{
+    "_id": "5401aa81373dc86ea6fe6028",
+    "index": 0,
+    "guid": "ad78cfea-b26d-4541-82b2-816d59caef49",
+    "isActive": false,
+    "balance": "$3,064.85",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "brown",
+    "name": "Minnie Nguyen",
+    "gender": "female",
+    "company": "HINWAY",
+    "email": "minnienguyen@hinway.com",
+    "phone": "+1 (973) 467-3710",
+    "address": "972 Pierrepont Street, Staples, Colorado, 3373",
+    "about": "Elit sint fugiat velit dolor pariatur ipsum ut consequat adipisicing cillum sint est. Non et aute commodo aliquip minim est. Pariatur nostrud nisi sit aliqua reprehenderit pariatur cupidatat qui ea elit amet. Et duis in aute qui officia sint enim est nulla id. Est et pariatur nisi nisi amet elit reprehenderit minim fugiat commodo sint id consequat.\r\n",
+    "registered": "2014-08-24T23:20:35 +05:00",
+    "latitude": -80.61996,
+    "longitude": -15.766444,
+    "links": [
+      11258605,
+      620378504,
+      144511860,
+      634858365,
+      785503668,
+      471295849,
+      972518944,
+      969646584,
+      411690062,
+      937909314,
+      301700930,
+      166725697,
+      513543722,
+      863248844,
+      44996742,
+      213417786,
+      642959358,
+      581345415,
+      89219159,
+      445170125
+    ],
+    "tags": [
+      "ex",
+      "amet",
+      "enim",
+      "eiusmod",
+      "tempor",
+      "sint",
+      "culpa"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Morales Stephenson"
+      },
+      {
+        "id": 1,
+        "name": "Vasquez Russell"
+      },
+      {
+        "id": 2,
+        "name": "Erin Mathews"
+      }
+    ],
+    "greeting": "Hello, Minnie Nguyen! You have 2 unread messages.",
+    "favoriteFruit": "strawberry"
+}
